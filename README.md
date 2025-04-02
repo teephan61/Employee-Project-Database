@@ -9,3 +9,13 @@ Simulates a workplace dataset using SQL with employee, project, and assignment t
 - SQL
 - Programiz SQL Editor (Online)
 
+📊 Key Concepts Practiced
+Table relationships and foreign keys
+
+Aggregate functions and grouping
+
+Filtering using WHERE, LIKE, and HAVING
+
+JOIN operations for multi-table queries
+
+Subqueries and derived metrics
